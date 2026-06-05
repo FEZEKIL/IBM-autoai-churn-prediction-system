@@ -55,6 +55,26 @@ Model deployed using IBM Watson Machine Learning:
 - API Type: REST
 - Status: Active
 
+![ALT TEXT](assets/Screenshot(210).png)
+
+![ALT TEXT](assets/Screenshot(211).png)
+
+![ALT TEXT](assets/Screenshot(212).png)
+
+![ALT TEXT](assets/Screenshot(213).png)
+
+📈 Model Performance
+9 AutoAI pipelines generated
+Best model selected automatically
+Optimized for accuracy
+👨‍💻 Author
+
+Fezekile Xalaba
+AI Engineer | Machine Learning | IBM watsonx | Multi-Cloud (AWS, GCP, IBM)
+
+📌 Key Learning Outcome
+
+Built a production-ready AI system using IBM AutoAI with automated model selection and REST API deployment.
 ---
 
 ## 📡 API Usage Example
@@ -69,15 +89,4 @@ Model deployed using IBM Watson Machine Learning:
   ]
 }
 
-📈 Model Performance
-9 AutoAI pipelines generated
-Best model selected automatically
-Optimized for accuracy
-👨‍💻 Author
 
-Fezekile Xalaba
-AI Engineer | Machine Learning | IBM watsonx | Multi-Cloud (AWS, GCP, IBM)
-
-📌 Key Learning Outcome
-
-Built a production-ready AI system using IBM AutoAI with automated model selection and REST API deployment.
